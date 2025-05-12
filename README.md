@@ -32,5 +32,5 @@ This project covers:
 
 ### 2. Clone the repo
 ```bash
-git clone https://github.com/namakamu/basic-golang.git
+git clone https://github.com/dreamysand/basic-golang.git
 cd basic-golang
